@@ -1,0 +1,73 @@
+nav{
+margin-left: 1%;
+font-size: 20px;
+color: blue;
+font-family: fantasy;
+text-decoration: underline;
+}
+
+
+
+h1{
+margin-left: 35%;
+font-size: 60px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: red;
+text-decoration: underline;
+}
+
+h2{
+margin-left: 5%;
+font-size: 30px;
+color: blue;
+text-decoration: underline;
+}
+.pouryesser{
+
+    display: inline-block;
+    width: 15%;
+    margin-left: 20px;
+}
+
+.pouryesser {
+font-size: 20px;
+}
+
+form{
+    margin-left: 25%;
+}
+
+
+input{
+    margin-left: 59px;
+    margin-bottom: 19px;
+}
+
+#wajdi{
+    margin-right: 24px; 
+    margin-left: 35px;
+}
+
+button{
+    font-size: 40px;
+    width: 204px;
+    height: 62px;
+    font-weight: bold;
+    border-radius: 26px;
+    background-color: black;
+    color: white;
+    border-color: chartreuse;
+    margin-left: 34px;
+
+}
+
+button:hover{
+    background-color: red ;
+
+}
+#pourmaryem{
+    width: 600px;
+}
+#pouromar{
+    width: 400px;
+}
